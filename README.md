@@ -20,3 +20,9 @@ The Gold Price Forecasting Toolkit is a collection of tools and models designed 
 ## Results
 
 The Gold Price Forecasting Toolkit provides valuable insights into gold price trends and accurate forecasts for future prices. By analyzing historical data and applying forecasting models, users can make informed decisions and strategies related to gold investments. The toolkit's visualization capabilities help identify patterns and anomalies in the data, enabling users to understand the market dynamics better. The forecasting models offer accurate predictions, allowing users to anticipate gold price fluctuations and make timely investment decisions.
+
+## References
+- Kaggle Dataset: [Monthly Gold Price](https://www.kaggle.com/datasets/nhiyen/monthly-gold-price)
+- Github Repo - [HERE](https://github.com/yennhi95zz/predict-gold-prices)
+- Kaggle Project - [HERE](https://www.kaggle.com/nhiyen/time-series-prediction-on-gold-prices)
+- Detail Explanation about the code on [MEDIUM]([https://medium.com/@yennhi95zz/unleashing-the-power-of-e-commerce-sales-analysis-a-case-study-4c64871a86ee](https://medium.com/@yennhi95zz/time-series-prediction-on-gold-prices-a826fc2ead0c))
