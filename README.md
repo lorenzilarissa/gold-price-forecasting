@@ -13,7 +13,7 @@ The Gold Price Forecasting Toolkit is a collection of tools and models designed 
 
 ## Getting Started
 
-1. Install the required libraries by running pip install -r requirements.txt.
+1. Install the required libraries by running `pip install numpy pandas seaborn matplotlib statsmodels`
 2. Load your gold price data into a CSV file and update the file path in the code.
 3. Run the code in a Python environment to perform data analysis, visualization, and forecasting.
 
